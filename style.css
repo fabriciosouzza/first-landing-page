@@ -116,6 +116,7 @@ body{
 .section3 h4{
     display: flex;
     justify-content: flex-end;
+    font-size: 28px;
 }
 
 .section4{
@@ -167,4 +168,11 @@ body{
 
 footer{
     background-color: #1F2937;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffffe1;
+    font-weight: bolder;
+    font-size: 20px;
 }
